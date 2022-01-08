@@ -1,0 +1,80 @@
+* Focus
+* Private goals
+* Professional goals
+* Monday
+  :PROPERTIES:
+  :Sleep:    x
+  :Exercise: x
+  :Happiness: x
+  :Wellbeing: x
+  :Eating:   x
+  :Stress:   x
+  :Fasting:  x
+  :END:
+
+* Tuesday
+  :PROPERTIES:
+  :Sleep:    x
+  :Exercise: x
+  :Happiness: x
+  :Wellbeing: x
+  :Eating:   x
+  :Stress:   x
+  :Fasting:  x
+  :END:
+
+* Wednesday
+  :PROPERTIES:
+  :Sleep:    x
+  :Exercise: x
+  :Happiness: x
+  :Wellbeing: x
+  :Eating:   x
+  :Stress:   x
+  :Fasting:  x
+  :END:
+
+* Thursday
+  :PROPERTIES:
+  :Sleep:    x
+  :Exercise: x
+  :Happiness: x
+  :Wellbeing: x
+  :Eating:   x
+  :Stress:   x
+  :Fasting:  x
+  :END:
+
+* Friday
+  :PROPERTIES:
+  :Sleep:    x
+  :Exercise: x
+  :Happiness: x
+  :Wellbeing: x
+  :Eating:   x
+  :Stress:   x
+  :Fasting:  x
+  :END:
+
+* Saturday
+  :PROPERTIES:
+  :Sleep:    x
+  :Exercise: x
+  :Happiness: x
+  :Wellbeing: x
+  :Eating:   x
+  :Stress:   x
+  :Fasting:  x
+  :END:
+
+* Sunday
+  :PROPERTIES:
+  :Sleep:    x
+  :Exercise: x
+  :Happiness: x
+  :Wellbeing: x
+  :Eating:   x
+  :Stress:   x
+  :Fasting:  x
+  :END:
+
