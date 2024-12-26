@@ -37,7 +37,7 @@ def _month_name(month_number: int) -> str:
 
 def month_filename(month_number: int, use_before: bool) -> str:
     return (
-        str(month_number)
+        str(month_number).zfill(2)
         + "-"
         + _month_name(month_number)
         + "_"
@@ -57,7 +57,7 @@ def setup_weeks(root_dir: Path):
     weeks_dir = root_dir / _WEEKS
     weeks_dir.mkdir(exist_ok=True)
     for week_number in range(1, _N_WEEKS + 1):
-        filepath = weeks_dir / (str(week_number) + _ORG_FILE_ENDING)
+        filepath = weeks_dir / (str(week_number).zfill(2) + _ORG_FILE_ENDING)
         copy_file(Path(_TEMPLATE_WEEK), filepath)
     logging.info("Finished setting up week files.")
 
